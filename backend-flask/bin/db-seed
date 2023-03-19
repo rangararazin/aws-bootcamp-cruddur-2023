@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-echo "== db-seed"
+echo "--------db-seed---------"
 
 seed_path="$(realpath .)/db/seed.sql"
 
