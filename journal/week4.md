@@ -8,12 +8,12 @@
 ![](assets/week4-RDS-Instance.PNG)
 
 
-### Created Lambda fucntion and sccuessfully executed it
+### Created Lambda function and successfully executed it
 ![](assets/week4-Lambda.PNG)
 
 ![](assets/week4-Lambda-log.PNG)
 
-### Most important part of this week was craeting activity and posting CRUD
+### Most important part of this week was creating activity and posting CRUD
 
 ![](assets/week4-post-CRUD.PNG)
 
